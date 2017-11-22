@@ -9,6 +9,8 @@
   "author": "Cristiano Virgili",
   "license": "ISC",
   "dependencies": {
+    "pkg": "^4.3.0-beta.1",
+    "socket.io": "^2.0.4",
     "vlc-remote": "^3.0.2"
   }
 }
